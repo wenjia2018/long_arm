@@ -1,4 +1,4 @@
 packrat/lib*/
-data/
+data/stats
 .Rprofile
 packrat
